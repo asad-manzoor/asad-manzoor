@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK DEV**
 
-- 💬 Ask me about **Software engineer | mern stack developer | javascript & python enthusiast | ui ux design | graphic design | machine learning explorer**
+- 💬 Ask me about **Software Engineer | Mern stack Developer | Javascript & Python Enthusiast | Ui Ux Design | Graphic Design | Machine Learning Explorer**
 
 - 📫 How to reach me **asad.manzoor.cs@gmail.com**
 
