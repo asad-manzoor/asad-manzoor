@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/asad-manzoor-a23052256/" target="blank"><img align="center" src="https://www.linkedin.com/sharing/share-offsite/?url=http://www.wikipedia.org/" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asad-manzoor-a23052256/" target="blank"><img align="center" src="https://www.linkedin.com/sharing/share-offsite/?url=http://www.wikipedia.org/" alt="Linkdin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
