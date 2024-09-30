@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asad Manzoor</h1>
-<h3 align="center">A passionate FullStack Developer from Pakistan</h3>
+<h1 align="left">Hi 👋, I'm Asad Manzoor</h1>
+<h3 align="left">A passionate FullStack Developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **MERN STACK DEV**
 
